@@ -63,8 +63,8 @@ Taskify fue diseñado pensando en la **simplicidad y la eficiencia**:
 
 ## 📸 Capturas de Pantalla
 
-| Login | Dashboard | Recordatorios |
-|-------|-----------|---------------|
+| Login | Dashboard |
+|-------|-----------|
 | ![Login](assets/screens/login.png) | ![Dashboard](assets/screens/dashboard.png) |
 
 ---
