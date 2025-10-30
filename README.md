@@ -27,4 +27,5 @@
 <p align="center">
   <sub>💡 *Si el navegador pregunta, selecciona “Descargar de todos modos”.*</sub><br>
   <sub>⚙️ Requiere Android 8.0 o superior.</sub>
+  <sub>⚙️ Si android pregunta, dar permiso de instalar apps desconocidas</sub>
 </p>
