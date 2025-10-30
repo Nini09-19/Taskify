@@ -65,7 +65,7 @@ Taskify fue diseñado pensando en la **simplicidad y la eficiencia**:
 
 | Login | Dashboard | Recordatorios |
 |-------|-----------|---------------|
-| ![Login](assets/screens/login.png) | ![Dashboard](assets/screens/dashboard.png) | ![Tareas](assets/screens/tasks.png) |
+| ![Login](assets/screens/login.png) | ![Dashboard](assets/screens/dashboard.png) |
 
 ---
 
