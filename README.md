@@ -13,8 +13,8 @@ Haz clic en el enlace para instalar la última versión de **Taskify v1.0** ⬇�
   <br><br>
 
   <!-- 🔗 Enlace de texto -->
-  <a href="https://drive.google.com/uc?export=download&id=1H6Pa0qvrXML1WH8672mBTwfeA4YrSOAu">
-    <center>📦 Descargar Taskify v1.0 (.apk)</center>
+  <center> <a href="https://drive.google.com/uc?export=download&id=1H6Pa0qvrXML1WH8672mBTwfeA4YrSOAu">
+   📦 Descargar Taskify v1.0 (.apk)</center>
   </a>
 </p>
 
