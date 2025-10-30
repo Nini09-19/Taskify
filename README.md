@@ -30,16 +30,7 @@ Taskify fue diseñado pensando en la **simplicidad y la eficiencia**:
 
 ## 📦 Descargar la App
 
-<p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1H6Pa0qvrXML1WH8672mBTwfeA4YrSOAu"
-     style="background-color:#43A047; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">
-    📦 Descargar Taskify v1.0 (.apk)
-  </a>
-</p>
-
-<p align="center">
-  <sub>💡 *Requiere Android 8.0 o superior. Permitir Instalar aplicaciones de fuentes desconocidas si es necesario.*</sub>
-</p>
+<p align="center"> <a href="https://drive.google.com/uc?export=download&id=1H6Pa0qvrXML1WH8672mBTwfeA4YrSOAu" style="background-color:#43A047; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;"> 📦 Descargar Taskify v1.0 (.apk) </a> </p> <p align="center"> <sub>💡 *Requiere Android 8.0 o superior. Permitir instalar aplicaciones de fuentes desconocidas si es necesario.<br> En caso de que no recibas notificaciones, asegúrate de activarlas desde la sección "Acerca de la aplicación".*</sub> </p>
 
 ---
 
