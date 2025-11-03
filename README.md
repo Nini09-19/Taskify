@@ -32,7 +32,7 @@ Taskify fue diseñado pensando en la **simplicidad y la eficiencia**:
 ## 📦 Descargar la App
 
 <p align="center">
-  <a href="https://github.com/Nini09-19/Taskify/releases/download/v1.0.0/Taskify v1.0.apk"
+  <a href="https://github.com/Nini09-19/Taskify/releases/download/v1.0.0/Taskify_v1.0.apk"
      style="background-color:#43A047; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">
      📦 Descargar Taskify v1.0.0 (.apk)
   </a>
