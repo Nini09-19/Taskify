@@ -26,11 +26,24 @@ Taskify fue diseñado pensando en la **simplicidad y la eficiencia**:
 - 🔔 **Notificaciones y recordatorios inteligentes**  
 - 📁 **Gestión de tareas y categorías**  
 - 🌙 **Modo oscuro**  
+
 ---
 
 ## 📦 Descargar la App
 
-<p align="center"> <a href="https://drive.google.com/uc?export=download&id=1H6Pa0qvrXML1WH8672mBTwfeA4YrSOAu" style="background-color:#43A047; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;"> 📦 Descargar Taskify v1.0 (.apk) </a> </p> <p align="center"> <sub>💡 *Requiere Android 8.0 o superior. Permitir instalar aplicaciones de fuentes desconocidas si es necesario.<br> En caso de que no recibas notificaciones, asegúrate de activarlas desde la sección "Acerca de la aplicación".*</sub> </p>
+<p align="center">
+  <a href="https://github.com/Nini09-19/Taskify/releases/download/v1.0.0/Taskify_v1.0.0.apk"
+     style="background-color:#43A047; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold;">
+     📦 Descargar Taskify v1.0.0 (.apk)
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    💡 *Requiere Android 8.0 o superior. Permitir instalar aplicaciones de fuentes desconocidas si es necesario.*<br>
+    *Si no recibes notificaciones, asegúrate de activarlas desde la sección "Acerca de la aplicación".*
+  </sub>
+</p>
 
 ---
 
@@ -46,7 +59,7 @@ Taskify fue diseñado pensando en la **simplicidad y la eficiencia**:
 
 ## 👨‍💻 Equipo de Desarrollo
 
-**Homero Y Armando** – Diseño y Flutter  
+**Homero y Armando** – Diseño y Flutter  
 **Alejandro** – Gestión de tareas y pruebas  
 **Yosgard** – UX/UI, planificación y soporte  
 
